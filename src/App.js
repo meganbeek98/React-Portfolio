@@ -1,18 +1,22 @@
 import React from "react";
-import About from "./Layout/About";
-import Contact from "./Layout/Contact";
-import Navbar from "./Layout/Navbar";
-import Projects from "./Layout/Projects";
-import Resume from "./Layout/Resume";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Resume from "./components/Resume";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <div>
       <Navbar />
-      <About />
-      <Projects />
-      <Contact />
-      <Resume />
+      <main className="text-gray-400 bg-gray-900 body-font">
+        <About />
+        <Projects />
+        <Contact />
+        <Resume />
     </main>
+    </div>
+    
   );
 }
+
