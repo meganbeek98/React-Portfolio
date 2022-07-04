@@ -3,6 +3,7 @@ import About from "./Layout/About";
 import Contact from "./Layout/Contact";
 import Navbar from "./Layout/Navbar";
 import Projects from "./Layout/Projects";
+import Resume from "./Layout/Resume";
 
 export default function App() {
   return (
