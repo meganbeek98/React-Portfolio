@@ -1,1 +1,7 @@
-export default function Projects() {}
+import React from "react";
+
+export default function Projects() {
+    return (
+
+    );
+}
