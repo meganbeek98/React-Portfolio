@@ -1,3 +1,4 @@
+// Contact
 import React from "react";
 
 
@@ -62,7 +63,8 @@ export default function Contact() {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
                             </h2>
-                            <a href="placeholder@email.com" className="text-indigo-400 leading-relaxed">
+                            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+                            <a className="text-indigo-400 leading-relaxed">
                                 placeholder@email.com
                             </a>
 
