@@ -32,7 +32,7 @@ export default function About() {
                 <img
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="./<PLACEHOLDER>" // ADD headshot or image later
+                    src="" // ADD headshot or image later
                 />
                 </div>
             </div>
