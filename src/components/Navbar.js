@@ -18,10 +18,7 @@ export default function Navbar() {
           |📃 About Me |
           </a>
           <a href="#Projects" className="mr-5 hover:text-white">
-          | 🛠 My Projects |
-          </a>
-          <a href="#Resume" className="mr-5 hover:text-white">
-          |📓 Resume |
+          | ⚙️ My Projects |
           </a>
         </nav>
         <a
