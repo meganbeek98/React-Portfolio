@@ -13,7 +13,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Check out what I have achievd so far in just my short time creating websites and web apps:
+            Check out what I have achieved so far in my short time creating websites and web apps:
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -24,7 +24,7 @@ export default function Projects() {
               className="sm:w-1/2 w-100 p-4">
               <div className="flex relative">
                 <img
-                  alt="gallery"
+                  alt=""
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}
                 />

@@ -17,13 +17,13 @@ export const projects = [
     {
         title: "Javascript Quiz (Level: Junior)",
         subtitle: "A Quiz; Based on JavaScript",
-        description: "A junior-developer-level, multiple-choice quiz featuring questions about the fundamentals of Javascript.",
+        description: "A junior-level, multiple-choice, and TIMED quiz featuring questions about the fundamentals of Javascript. User's can store their high-scores and see how their knowledge measures up to other quiz-takers.",
         image: "./components/SS-Quiz.png", // add image(.img, or .svg) or gif(.gif) for project
         link: "https://meganbeek98.github.io/code-quiz-2/" // insert link to project (i.e., Deployment and/or GitHub Repo)
     },
     {
         title: "'ELECTRIVIA' (in development/not complete)",
-        subtitle: "An app to Explore, Play, Create, and Share knowledge via Trivia Quizzes.",
+        subtitle: "Explore, Play, Create, and Share knowledge via Trivia Quizzes.",
         description: "An app (still in development), where you can Explore, Play, Create, and Share many different Trivia Quizes. Compete globally with others, and/or simply complete quizes locally to earn yourself a spot on Electrivia's Leaderboard!",
         image: "./components/SS-trivia-header.png",
         link: "https://github.com/meganbeek98/trivia" // insert link to project (i.e., Deployment and/or GitHub Repo)

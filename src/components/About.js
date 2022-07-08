@@ -14,26 +14,26 @@ export default function About() {
                 <p className="mb-8 leading-relaxed">
                     I am a woman in Web Development. ⌨ &#9792;
                 Although I'm relatively new to the industry,<br></br> I have always aspired and strived for greatness in everything I do in life. I am a hard-worker. <br></br>
-                And I will work hard all throught this career and continue to master my skills everyday. Momma didn't raise a quitter! ᕦ(ò_óˇ) 
+                And I will work hard all throughout this career, and continue to master my skills along the way. Coding / Web Development, has proven to entail much more than I had ever expected... But.. momma didn't raise a quitter! ᕦ(ò_óˇ) 
                 </p>
                 <div className="flex justify-center">
                     <a
                     href="#contact"
                     className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                    Work With Me
+                    <br/>"Call Me.. <br/> Beep Me.. <br/>Reach Me!" <br/> 📣
                     </a>
                     <a
                     href="#projects"
                     className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                    See My Past Work
+                    <br/> Check Out <br/> My Projects : 🪄
                     </a>
                 </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
                         className="object-cover object-center rounded"
-                        alt="hero"
-                        src="" // ADD headshot or image later
+                        alt=""
+                        src="/src/assets/headshot-cropped.JPG" // ADD headshot or image later
                     />
                 </div>
             </div>
