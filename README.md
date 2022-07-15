@@ -1,3 +1,62 @@
+# React Portfolio
+### OSU Bootcamp Challenge 20
+---------------------------------------------------
+## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)
+    developed using: React.js, Git, Tailwind
+
+---------------------------------------------------
+
+## About: <br>
+    This is a portfolio I have made using React.js that showcases my web development projects.
+
+---------------------------------------------------
+
+## User Story: <br>
+    AS AN employer looking for candidates with experience building single-page applications
+    I WANT to view a potential employee's deployed React portfolio of work samples
+    SO THAT I can assess whether they're a good candidate for an open position
+
+---------------------------------------------------
+
+## Screenshots: <br>
+
+Navbar
+<img src="./SS-2.png"></img>
+
+Hero Section <br>
+
+<img src="./SS-1.png"></img>
+
+Showcase of Apps I've built <br>
+.. uses :hover effect.. as you can see, I still need to work out a few styling issues...
+<img src="./SS-3.png"></img>
+
+Contact Form
+<img src="./SS-4.png"></img>
+
+---------------------------------------------------
+
+## Links: <br>
+
+[insert link description](insert-actual-link-here)
+
+[insert link description](insert-actual-link-here)
+
+----------------------------------------------------
+
+## Some resources used to develop: <br>
+    - OSU Coding Bootcamp (2022) -- modules, and the instructors & TA's
+    - Slack (including 'ASKBCS' assistants)
+    - Github
+    - MDN Web Docs
+    - stackoverflow
+    - w3schools.com
+    - And last, but certainly not least --> Google!
+
+----------------------------------------------------
+----------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
