@@ -38,9 +38,9 @@ Contact Form
 
 ## Links: <br>
 
-[insert link description](insert-actual-link-here)
+[GitHub Repository Link](https://github.com/meganbeek98/react-portfolio.git)
 
-[insert link description](insert-actual-link-here)
+[Heroku Deployment](https://meganbeek98-react-portfolio.herokuapp.com/)
 
 ----------------------------------------------------
 
